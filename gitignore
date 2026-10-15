@@ -1,0 +1,16 @@
+# Engagement-Daten & Scan-Ergebnisse (niemals committen!)
+engagements/
+*.nmap
+*.gnmap
+*.xml
+*.html
+
+# Logs & Historie
+*.log
+.nmap_*_history*
+
+# Temporäres
+*.tmp
+*.old
+*~
+.cache/
