@@ -34,8 +34,8 @@ Dieses Repository ist Teil meines Portfolios und gibt Einblick in meinen Arbeits
 
 | Tool | Rolle | Perspektive | Kernnutzen |
 |:---|:---|:---|:---|
-| 🎯 **Nmap Power Tool** | Reconnaissance & Scanning | **aktiv** | Angriffsfläche entdecken, vermessen, mit Schwachstellen korrelieren |
-| 🦈 **Wireshark Power Tool** | Capture & Analyse | **passiv / forensisch** | Verkehr mitschneiden, auswerten, Belege extrahieren |
+| 🎯 **Active Recon Scanner** *(nmap)* | Reconnaissance & Scanning | **aktiv** | Angriffsfläche entdecken, vermessen, mit Schwachstellen korrelieren |
+| 🦈 **Traffic Analyzer** *(wireshark)* | Capture & Analyse | **passiv / forensisch** | Verkehr mitschneiden, auswerten, Belege extrahieren |
 
 </div>
 
@@ -175,7 +175,7 @@ Beide Werkzeuge sind menügeführt und fragen Interface/Ziel und Projekt ab, bev
 ## 👤 Autor
 
 **Patrick May** · angehender Junior Penetration Tester (NRW, Deutschland)
-Fachinformatiker für Systemintegration (IHK) · CompTIA Network+ & Security+
+Fachinformatiker für Systemintegration (IHK) · CompTIA Network+ & Security+ & Pentest+
 
 [LinkedIn](https://www.linkedin.com/in/patrick-may-664867367) · GitHub: [@Pato81](https://github.com/Pato81)
 
